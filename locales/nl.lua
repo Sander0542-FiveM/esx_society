@@ -10,8 +10,8 @@ Locales['nl'] = {
   ['employee_management']    = 'werknemer beheer',
   ['fire']                   = 'ontslaan',
   ['grade']                  = 'schaal',
-  ['have_deposited']         = 'je hebt gestort ~r~$%s~s~',
-  ['have_withdrawn']         = 'je hebt opgenomen ~g~$%s~s~',
+  ['have_deposited']         = 'je hebt ~r~€%s~s~ gestort',
+  ['have_withdrawn']         = 'je hebt ~g~€%s~s~ opgenomen',
   ['invalid_amount']         = 'ongeldige hoeveelheid',
   ['invalid_amount_max']     = 'dit salaris is niet toegestaan',
   ['no']                     = 'nee',
@@ -35,4 +35,4 @@ Locales['nl'] = {
   ['you_have_promoted']      = 'je hebt gepromoveerd %s naar %s',
   ['you_have_been_promoted'] = 'je bent ~b~gepromoveerd~s~!',
 }
-  
+
