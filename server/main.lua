@@ -364,4 +364,4 @@ function WashMoneyCRON(d, h, m)
 	end)
 end
 
-TriggerEvent('cron:runAt', 3, 0, WashMoneyCRON)
+TriggerEvent('cron:runAt', 19, 0, WashMoneyCRON)
